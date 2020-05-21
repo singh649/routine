@@ -25,7 +25,7 @@ SECRET_KEY = '2pgwd=u-eiwhmpq_*q07a(=n4t9%lf7+1f_4rdq@*dzs$4*f80'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['routine.herokuapp.com']
+ALLOWED_HOSTS = ['routine2.herokuapp.com']
 
 
 # Application definition
